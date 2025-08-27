@@ -17,6 +17,8 @@ It has services like **Therapy, Training, and Counselling**.
 - Has methods to **show information** and **provide a service**.  
 - Demonstrates how objects are created and used.  
 
+---
+
 ### 🖥️ Example Output:  
 ```text
 Africa Ability Trust is in Kibera, Nairobi
