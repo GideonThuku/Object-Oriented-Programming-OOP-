@@ -19,7 +19,7 @@ It has services like **Therapy, Training, and Counselling**.
 
 ---
 
-### 🖥️ Example Output:  
+## 🖥️ Example Output:  
 ```text
 Africa Ability Trust is in Kibera, Nairobi
 We offer:
