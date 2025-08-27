@@ -1,4 +1,4 @@
-# 🏗️ Python OOP Assignment  
+## 🏗️ Python OOP Assignment  
 
 This project shows basic **Object-Oriented Programming (OOP)** concepts in Python.  
 It covers two parts:  
@@ -12,7 +12,7 @@ It covers two parts:
 I created a class for **Africa Ability Trust**, a disability center in Kibera, Nairobi.  
 It has services like **Therapy, Training, and Counselling**.  
 
-### Features:  
+## Features:  
 - Uses a **constructor (`__init__`)** to set name, location, and services.  
 - Has methods to **show information** and **provide a service**.  
 - Demonstrates how objects are created and used.  
@@ -36,12 +36,12 @@ Now providing: Counselling
 I made different **vehicles** that all have the same action called `move()`.  
 Each vehicle defines the action differently.  
 
-### Vehicles and Actions:  
+## Vehicles and Actions:  
 - Car → `Driving 🚗`  
 - Plane → `Flying ✈️`  
 - Boat → `Sailing 🚤`  
 
-### 🖥️ Example Output:
+## 🖥️ Example Output:
 --- Polymorphism Example ---
 Driving 🚗
 Flying ✈️
